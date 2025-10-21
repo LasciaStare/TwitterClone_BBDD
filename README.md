@@ -42,7 +42,6 @@ La aplicación ofrece un menú interactivo con las siguientes funcionalidades pr
 *   Jose Menco
 *   Camilo Vargas
 
-
 ## Arquitectura y estructura de carpetas
 
 ```
